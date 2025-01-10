@@ -6,14 +6,25 @@ In this Project, we are going to predict the Price of Used Cars using various fe
 Following steps will be followed to reach our goal:
 
 Importing libraries
+
 Reading the concerned dataset
+
 Data Understanding
+
 Data handling
+
 Data visualization
+
 Data preparation
+
 Splitting the Data and feature scaling
+
 Building a linear regression model
+
 Residual analysis of the train data
+
 Making Predictions Using the Final Model
+
 Model Evaluation
+
 Conclusion
